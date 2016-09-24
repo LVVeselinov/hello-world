@@ -8,4 +8,8 @@ nov opit
 
 123
 
+
 nov opit s tortoisse git
+
+Bash nov opit
+
