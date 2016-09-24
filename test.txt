@@ -1,7 +1,9 @@
 nov fail
 
-Updating with Bash…
+Updating with Bashâ€¦
 
-Update with Tortoise…
+Update with Tortoiseâ€¦
 
 nov opit
+
+123
