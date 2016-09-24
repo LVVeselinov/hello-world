@@ -1,4 +1,4 @@
-nov fail
+﻿nov fail
 
 Updating with Bash…
 
@@ -7,3 +7,5 @@ Update with Tortoise…
 nov opit
 
 123
+
+nov opit s tortoisse git
